@@ -1,15 +1,28 @@
-# drum-kit
+<h1>Drum Kit</h1>
 
-This is a website focusing primarily on JavaScript and DOM which imitates a drum kit's sound.
+<p>
+This is a responsive website emulating a drum kit's sound using JavaScript and DOM manipulation. 
+</p>
 
-There will be a corresponding sound and brief animation for each letter/image pressed or clicked.
 
-Keystrokes available to be pressed and make sound:
+<p>
+There will be a corresponding sound and brief animation for each letter/image pressed or clicked. 
+</p>
 
-"w"
-"a"
-"s"
-"d"
-"j"
-"k"
-"l"
+<p>
+<img src="images/drum-kit-example.png">
+</p>
+
+---
+
+<h2>Keystrokes Available</h2>
+
+<ul>
+<li>"w"</li>
+<li>"a"</li>
+<li>"s"</li>
+<li>"d"</li>
+<li>"j"</li>
+<li>"k"</li>
+<li>"l"</li>
+</ul>
